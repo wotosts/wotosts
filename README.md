@@ -5,10 +5,19 @@
 * I'm wotosts, working as an Android developer.  
 * I hope to learn about all mobile apps development and to be a strong supporter for colleagues. 
 
+<br>
+
+
+👉 Blog - [Treasure Box](https://wotosts.github.io)  
+
+👉 Side project - [사부작](https://play.google.com/store/apps/details?id=com.wotosts.naggingfriends&hl=en-KR)
+
+
 
 <br>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Java-F36D00?style=for-the-badge"/>
+
 
 
 
