@@ -8,7 +8,7 @@
 <br>
 
 
-👉 Blog - [Treasure Box](https://wotosts.github.io)  
+👉 Blog - [Treasure Box](https://wotosts.vercel.app/)  
 
 👉 Side project - [사부작](https://play.google.com/store/apps/details?id=com.wotosts.naggingfriends&hl=en-KR)
 
