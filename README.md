@@ -12,8 +12,6 @@
 
 👉 Side project - [사부작](https://play.google.com/store/apps/details?id=com.wotosts.naggingfriends&hl=en-KR)
 
-👉 [Resume](https://wotosts.notion.site/cf4b0793b84248d7ab0d448f631dd6b1?pvs=4)
-
 
 <br>
 
